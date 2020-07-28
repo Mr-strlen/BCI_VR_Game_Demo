@@ -22,9 +22,23 @@
 
 
 ## 项目介绍
-我们使用的是八导盐水电极脑电帽，利用nu平台采集设备数据，利用通讯接口传输到matlab中进行数据切片和预处理；之后利用CCA算法，输出识别的分类，将结果输入到Unity项目中，从而实现场景切换和人物移动控制。
-https://github.com/Mr-strlen/BCI_VR_Game_Demo/blob/master/Images/eeg_equipment.jpg)
+我们使用的是八导盐水电极脑电帽，利用nural平台采集设备数据，利用通讯接口传输到matlab中进行数据切片和预处理；之后利用CCA算法，输出识别的分类，将结果输入到Unity项目中，从而实现场景切换和人物移动控制。
+![image](https://github.com/Mr-strlen/BCI_VR_Game_Demo/blob/master/Images/eeg_equipment.jpg)
 项目结构：
 ![image](https://github.com/Mr-strlen/BCI_VR_Game_Demo/blob/master/Images/total_model.png)
 项目流程：
 ![image](https://github.com/Mr-strlen/BCI_VR_Game_Demo/blob/master/Images/total_process.png)
+
+
+## 场景展示
+我们也是给场景编了两个故事。
+
+## 写在最后的话
+上传这个项目的时候已经是2020的七月底，2020年并不太平，就像我大学这四年一样。  
+因为对神经工程的兴趣，我在大一下遇到了想哥，得以遇见张老师以及后来不断教导我的各位老师和学长学姐们，也因此有了这个项目。  
+这个项目虽然做了两年，但是并不顺利，组员变更，状况不断，曾因为种种原因，一度陷入了停滞。  
+结项的那天我意识到，大学几年的悲观离合都是围绕着这个项目展开的，不过没过多久现实又教我这也不算什么。  
+所以谨以此纪念那不悔的大学青春。
+    
+别人都祝你快乐  
+我愿你，遍历山河，觉得人间值得
